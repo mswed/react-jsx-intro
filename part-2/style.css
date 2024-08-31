@@ -1,0 +1,16 @@
+h3,
+h5 {
+  color: white;
+  margin-top: 1px;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+p {
+  color: white;
+  margin-left: 5px;
+}
+.tweet {
+  border: 2px solid white;
+  background-color: #413c58;
+}
